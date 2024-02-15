@@ -1,0 +1,14 @@
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\bin\Debug\net8.0\Proyecto tarea 2.exe
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\bin\Debug\net8.0\Proyecto tarea 2.deps.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\bin\Debug\net8.0\Proyecto tarea 2.runtimeconfig.json
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\bin\Debug\net8.0\Proyecto tarea 2.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\bin\Debug\net8.0\Proyecto tarea 2.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.AssemblyInfoInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.AssemblyInfo.cs
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\refint\Proyecto tarea 2.dll
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.pdb
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\Proyecto tarea 2.genruntimeconfig.cache
+C:\Users\Leonel Guerra\OneDrive\Escritorio\III SEMESTRE\Proyecto tarea 2\Proyecto tarea 2\Proyecto tarea 2\obj\Debug\net8.0\ref\Proyecto tarea 2.dll
